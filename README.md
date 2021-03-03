@@ -17,6 +17,11 @@ This is a simple program which creates a Pacman which moves back and forth acros
 To install download all the files into one folder, make sure the images are all stored together in their own images file. Open the index.html file in a browser and the animation should begin on its own. 
 
 <h1>
+  Support
+</h1>
+For support feel free to contact me at atdd1929@gmail.com
+
+<h1>
   Usage:
 </h1>
   These files are a good start to the Pacman game or as a reference for a beginner programmer learning about moving images. 
