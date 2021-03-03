@@ -18,9 +18,9 @@ To install download all the files into one folder, make sure the images are all 
 
 <h1>
   Usage:
-<h1>
+</h1>
   These files are a good start to the Pacman game or as a reference for a beginner programmer learning about moving images. 
-  </h1>
+ 
   
   <h1>
   Roadmap:
